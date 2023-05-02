@@ -4,7 +4,7 @@
 
 This repository contains a [GitHub Action](https://github.com/features/actions) that can be used on hosted runners in the Cuedo HPC Datacenter.
 
-The use of this software requires the runner to be hosted in the Cuedo Datacenter, a Cuedo HPC license key, and the correct licensing to be installed on the runner for any MATLAB products used.
+The use of this software requires the runner to be hosted in the Cuedo Datacenter, a Cuedo HPC license key, and the correct licensing to be installed on the runner for any MathWorks (MATLAB/Simulink) products used.
 
 ## Examples
 
